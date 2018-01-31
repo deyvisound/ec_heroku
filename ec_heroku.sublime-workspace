@@ -1,0 +1,595 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"textos_topo"
+			],
+			[
+				"te",
+				"textos"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"uplo",
+				"upload_dir"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"dono",
+				"dono1"
+			],
+			[
+				"meu",
+				"meuCarro"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"hr",
+				"hr_divider"
+			],
+			[
+				"content",
+				"content_box"
+			],
+			[
+				"bord",
+				"border-bottom-width"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"lang",
+				"languages"
+			],
+			[
+				"field",
+				"fields"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"men",
+				"Menu"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 483,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2018_01_26_010627_create_tasks_table.php",
+			"settings":
+			{
+				"buffer_size": 1314,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 2300,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 124.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ftps",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/son/entrega_continua/ec_heroku",
+		"/var/www/html/son/entrega_continua/ec_heroku/app",
+		"/var/www/html/son/entrega_continua/ec_heroku/database",
+		"/var/www/html/son/entrega_continua/ec_heroku/database/migrations",
+		"/var/www/html/son/entrega_continua/ec_heroku/database/seeds",
+		"/var/www/html/son/entrega_continua/ec_heroku/resources",
+		"/var/www/html/son/entrega_continua/ec_heroku/resources/views",
+		"/var/www/html/son/entrega_continua/ec_heroku/routes"
+	],
+	"file_history":
+	[
+		"/var/www/html/son/entrega_continua/ec_heroku/database/migrations/2018_01_26_010627_create_tasks_table.php",
+		"/var/www/html/son/entrega_continua/ec_heroku/database/seeds/DatabaseSeeder.php",
+		"/var/www/html/son/entrega_continua/ec_heroku/database/database.sqlite",
+		"/var/www/html/son/entrega_continua/ec_heroku/database/migrations/_dont_use2014_10_12_000000_create_tasks_table.php",
+		"/var/www/html/son/entrega_continua/ec_heroku/database/migrations/2014_10_12_000000_create_tasks_table.php",
+		"/var/www/html/son/entrega_continua/ec_heroku/ec_heroku.sublime-project",
+		"/var/www/html/son/entrega_continua/README.md",
+		"/var/www/html/beauty_salon/routes/web.php",
+		"/var/www/html/beauty_salon/resources/views/layouts/admin.blade.php",
+		"/var/www/html/beauty_salon/resources/views/admin/forms/form_news.blade.php",
+		"/var/www/html/beauty_salon/resources/views/admin/news.blade.php",
+		"/var/www/html/beauty_salon/app/Http/Controllers/HomeController.php",
+		"/var/www/html/beauty_salon/resources/views/site/index.blade.php",
+		"/var/www/html/beauty_salon/app/Http/Controllers/SiteController.php",
+		"/var/www/html/beauty_salon/resources/views/admin/forms/form_top_page.blade.php",
+		"/var/www/html/beauty_salon/app/Models/TextosTopo.php",
+		"/var/www/html/AdminLTE/pages/tables/data.html",
+		"/var/www/html/beauty_salon/app/Classes/UploadHandler.php",
+		"/var/www/html/beauty_salon/public/css/form-style.css",
+		"/var/www/html/beauty_salon/resources/views/admin/forms/form_textos_topo.blade.php",
+		"/var/www/html/beauty_salon/resources/views/layouts/admin_fileupload.blade.php",
+		"/var/www/html/beauty_salon/database/migrations/2018_01_25_122205_create_textos_topos_table.php",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/main.js",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/jquery.fileupload.js",
+		"/var/www/html/beauty_salon/resources/views/admin/index.blade.php",
+		"/var/www/html/beauty_salon/storage/site_img/top_slides/teste",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/load-image.all.min.js",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/tmpl.min.js",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/canvas-to-blob.min.js",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/jquery.blueimp-gallery.min.js",
+		"/var/www/html/jquery-file-upload/server/php/UploadHandler.php",
+		"/var/www/html/jquery-file-upload/index.html",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/css/blueimp-gallery.min.css",
+		"/var/www/html/beauty_salon/resources/views/auth/login.blade.php",
+		"/var/www/html/beauty_salon/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/beauty_salon/public/css/app.css",
+		"/var/www/html/beauty_salon/resources/views/layouts/app.blade.php",
+		"/var/www/html/beauty_salon/resources/views/layouts/app-old.blade.php",
+		"/var/www/html/beauty_salon/.env",
+		"/var/www/html/AdminLTE/index.html",
+		"/var/www/html/beauty_salon/resources/views/admin/index.html",
+		"/var/www/html/beauty_salon/resources/assets/sass/_variables.scss",
+		"/var/www/html/beauty_salon/resources/views/layouts/site.blade.php",
+		"/var/www/html/beauty_salon/resources/views/site/service.blade.php",
+		"/var/www/html/beauty_salon/public/css/style.css",
+		"/var/www/html/beauty_salon/resources/views/site/gallery.blade.php",
+		"/var/www/html/beauty_salon/Procfile",
+		"/var/www/html/beauty_salon/index.php",
+		"/var/www/html/beauty_salon/resources/views/site/contact.blade.php",
+		"/var/www/html/beauty_salon/resources/views/site/about.blade.php",
+		"/var/www/html/beauty-salon/app/Http/Controllers/SiteController.php",
+		"/var/www/html/beauty-salon/resources/views/site/index.blade.php",
+		"/var/www/html/beauty-salon/routes/web.php",
+		"/var/www/html/beauty-salon/resources/views/layouts/site.blade.php",
+		"/var/www/html/beauty_salon/index.html",
+		"/var/www/html/beauty-salon/resources/views/site/layout/site.blade.php",
+		"/home/gambit/Documents/java-algaworks/oo/automovel/Proprietario.java",
+		"/home/gambit/Documents/java-algaworks/oo/automovel/Principal.java",
+		"/home/gambit/Documents/java-algaworks/oo/automovel/Carro.java",
+		"/home/gambit/Documents/java-algaworks/oo/Principal.java",
+		"/home/gambit/Documents/java-algaworks/oo/Proprietario.java",
+		"/home/gambit/Documents/java-algaworks/oo/Carro.java",
+		"/home/gambit/Documents/java-algaworks/AreaCirculo.java",
+		"/var/www/html/portfolio/css/tooplate_style.css",
+		"/var/www/html/portfolio/README",
+		"/var/www/html/portfolio/index.html",
+		"/var/www/html/portfolio/js/languages.js",
+		"/var/www/html/portfolio/js/util.js",
+		"/var/www/html/portfolio/js/jquery.js",
+		"/var/www/html/portfolio/teste.html",
+		"/var/www/html/portfolio/tooplate_style.css",
+		"/var/www/html/portfolio/js/languages/en.js",
+		"/var/www/html/portfolio/js/languages/pt-br.js",
+		"/var/www/html/portfolio/js/pt-br.js",
+		"/var/www/html/portfolio/js/jquery3_2_1.js",
+		"/var/www/html/otrack/ftpsync.settings",
+		"/var/www/html/otrack/index.php",
+		"/home/gambit/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/var/www/html/20-dicas-htaccess/alterando_url/.htaccess",
+		"/var/www/html/20-dicas-htaccess/alterando_url/pagina.php",
+		"/var/www/html/iniciando-com-laravel5/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/iniciando-com-laravel5/database/migrations/2017_12_13_180848_create_clientes_table.php",
+		"/var/www/html/iniciando-com-laravel5/app/Http/Controllers/Auth/RegisterController.php",
+		"/var/www/html/iniciando-com-laravel5/public/css/style.css",
+		"/var/www/html/iniciando-com-laravel5/resources/views/welcome.blade.php",
+		"/var/www/html/iniciando-com-laravel5/app/Http/Controllers/HomeController.php",
+		"/var/www/html/iniciando-com-laravel5/app/Models/Cliente.php",
+		"/var/www/html/iniciando-com-laravel5/app/Cliente.php",
+		"/var/www/html/iniciando-com-laravel5/.env",
+		"/var/www/html/iniciando-com-laravel53/public/index.html",
+		"/var/www/html/alura/cenourapp/config.xml",
+		"/var/www/html/alura/cenoura/index.html",
+		"/var/www/html/alura/cenoura/estilo.css",
+		"/var/www/html/alura/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/var/www/html/beauty_salon/public/plugins/jquery-file-upload",
+			"/var/www/html/beauty_salon/resources"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dash",
+			"$texto_topo",
+			"dash",
+			"delete",
+			"rename",
+			"script_url",
+			"delete",
+			"maxFileSize",
+			"loadImageMaxFileSize",
+			"max",
+			"get_file_size",
+			"filesize",
+			"filesi",
+			"File is too big",
+			"get_full_url",
+			"submit",
+			"autoUpload",
+			"url",
+			"targetHost",
+			"options.url",
+			"files",
+			"unknown status",
+			"src=\"asset",
+			"main",
+			"->name",
+			"Ale",
+			"Alexander",
+			"User",
+			"Control Sidebar",
+			"sass",
+			"fonts",
+			"_content.scss",
+			"layout",
+			"galer",
+			"galery-",
+			"galery",
+			"header",
+			"src="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$textos_topo",
+			"src=\"{{ asset"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "database/migrations/2018_01_26_010627_create_tasks_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1139,
+								1139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2137,
+								2137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ec_heroku.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 383.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
